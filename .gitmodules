@@ -7,3 +7,8 @@
 [submodule "my-submodule"]
 	path = my-submodule
 	url = git@github.com:roaaalswidany/Project-LV1.git
+[submodule "assets/css"]
+path = assets/css
+ url = git@github.com:roaaalswidany/Project-LV1.git
+
+
