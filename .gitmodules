@@ -4,3 +4,6 @@
 [submodule "libs/my-submodule"]
 	path = libs/my-submodule
 	url = git@github.com:roaaalswidany/Project-LV1.git
+[submodule "my-submodule"]
+	path = my-submodule
+	url = git@github.com:roaaalswidany/Project-LV1.git
